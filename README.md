@@ -1,3 +1,4 @@
+REITs Chain  public Chain based on RRC20 protocol
 The most powerful infrastructure for distributed applications.
 Welcome to the REITs Chain source code repository! The software enables enterprises to quickly build and deploy high performance and high security blockchain-based applications.
 Some breakthrough features of the REITs Chain include:
