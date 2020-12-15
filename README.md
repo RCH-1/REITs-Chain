@@ -24,4 +24,3 @@ Some breakthrough features of the REITs Chain include:
 11. Designed for parallel execution of context-free validation logic
 
 12. Designed for lnter blockchain communication
-
