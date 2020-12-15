@@ -19,7 +19,7 @@ Some breakthrough features of the REITs Chain include:
 
 9. Hierarchical role-based permissions
 
-10、Support for biometric hardware security keys (e.g. REITs Secure Enclave)
+10.Support for biometric hardware security keys (e.g. REITs Secure Enclave)
 
 11. Designed for parallel execution of context-free validation logic
 
