@@ -10,7 +10,7 @@ Some breakthrough features of the REITs Chain include:
 7. Scheduled Recurring Transactions
 8. Time Delay Security
 9. Hierarchical role-based permissions
-10、Support for biometric hardware security keys (e.g. REITs Secure Enclave)
 
+10、Support for biometric hardware security keys (e.g. REITs Secure Enclave)
 11. Designed for parallel execution of context-free validation logic
 12. Designed for lnter blockchain communication
